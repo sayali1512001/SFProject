@@ -8,3 +8,5 @@ Change :- done by teammate for WI3
 Change :- for the bug2
 
 Change :- for stash WI5 in progress
+
+Change : For WI6 for local master to test normal.
