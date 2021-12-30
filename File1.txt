@@ -9,6 +9,11 @@ Change 3:- for the bug2
 
 Change 4:- for stash WI5 in progress
 
-Change 5: For WI6 for local master to test normal.
+Change 5:- For WI6 for local master to test normal.
 
-Change 6: By team mate on remote master for bug3
+Change 6:- By team mate on remote master for bug3
+
+Change 7:- For WI6 for local master to test normal.
+
+Change 8:- On local master for WI7
+
