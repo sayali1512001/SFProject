@@ -1,3 +1,3 @@
-To fix the bug1
-
-Change for WI4 by temmate for rebase with conflict
+1. 'To fix the bug1.'
+2. Change for WI4 by temmate for rebase with conflict
+3. change for rebase on CR2 branch
